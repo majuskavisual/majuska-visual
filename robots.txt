@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://golden-tapioca-425385.netlify.app/sitemap.xml
